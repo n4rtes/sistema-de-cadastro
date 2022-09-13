@@ -1,4 +1,4 @@
-<h1 align="> Aprendendo com a Alura</h1>
+<h1 align="center"> Aprendendo com a Alura </h1>
 
 > Status do projeto em desenvolvimento
 
